@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Shreeya Dikshit
+- 👋 Hi, I’m Shreeya Dikshit.
+- 📚 I'm currently pursuing a Masters in Computer Application.
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning MERN stack and Google Cloud Platform.
 
